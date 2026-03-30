@@ -3,6 +3,9 @@
     <File Path=".gitignore" />
     <File Path="README.md" />
   </Folder>
-  <Project Path="../FacturationTnApp_ConsolePlus (Back_End)/FacturationTnApp.csproj" />
-  <Project Path="../FacturationTnApp_WinFormsStarter (Front_End)/FacturationTnAppWinForms.csproj" />
+  <Project Path="../FacturationTnApp_ConsolePlus (Back_End)/Facturation.Core.csproj" />
+  <Project Path="../FacturationTnApp_WinFormsStarter (Front_End)/Facturation.WinForms.csproj" />
+  <Project Path="Facturation.API/Facturation.API.csproj" Id="2065ae17-35ce-4f8d-9938-bd9a2c743936" />
+  <Project Path="Facturation.Mobile/Facturation.Mobile.csproj" Id="3ead9c19-1fe1-4681-8671-996658c7ac1f" />
+  <Project Path="Fracturation.data/Fracturation.data.csproj" Id="109f7a1d-5fd4-4669-8885-eb12fe2a1378" />
 </Solution>

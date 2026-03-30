@@ -7,6 +7,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FacturationTnApp_ConsolePlus (Back_End)\FacturationTnApp.csproj" />
+    <ProjectReference Include="..\FacturationTnApp_ConsolePlus (Back_End)\Facturation.Core.csproj" />
   </ItemGroup>
 </Project>
