@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="../FacturationTnApp_ConsolePlus (Back_End)/FacturationTnApp.csproj" />
+  <Project Path="../FacturationTnApp_WinFormsStarter (Front_End)/FacturationTnAppWinForms.csproj" />
+</Solution>

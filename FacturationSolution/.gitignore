@@ -1,0 +1,22 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Debug files
+*.pdb
+*.exe
+*.dll
+
+# Cache
+*.cache
+
+# Data files (optionnal)
+appdata*.json
+
+# Logs
+*.log
